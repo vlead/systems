@@ -1,0 +1,14 @@
+#+TITLE:     Systems Minutes of Meeting [22-9-14]
+#+AUTHOR:    M.S.Soumya
+#+DATE:      2014-09-26 Fri
+
+* Learning Plan of Systems Team
++ Thursday (25th Sept) Begin LDAP
++ Monday (29th Sept) awstats statistics Checkup.
+
+Estimated time for the other sercices that have to be learned.
+ 
++ LDAP : 2 Weeks
++ Openvz(Networking part) : 1 Week
++ DNS : 2 Weeks
++ Nagios : 2 Weeks.

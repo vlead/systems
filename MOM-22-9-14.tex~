@@ -1,0 +1,42 @@
+% Created 2014-09-26 Fri 15:03
+\documentclass[11pt]{article}
+\usepackage[AUTO]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\providecommand{\alert}[1]{\textbf{#1}}
+
+\title{Systems TEam Learning Plan [22-9-14]}
+\author{M.S.Soumya}
+\date{2014-09-26 Fri}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.9.3f}}
+
+\begin{document}
+
+\maketitle
+
+\setcounter{tocdepth}{3}
+\tableofcontents
+\vspace*{1cm}
+
+\begin{itemize}
+\item Thursday (25th Sept) Begin LDAP
+\item Monday(29th Sept) awstats statistics Checkup.
+\item 
+\end{itemize}
+
+\end{document}
